@@ -1,0 +1,2 @@
+rootProject.name = "Notifiaction_lap_ass"
+include ':app'
